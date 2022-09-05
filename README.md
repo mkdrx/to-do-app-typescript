@@ -1,7 +1,6 @@
 # To-do list using React - TypeScript
-## Based on Udemy's React Course - Maximilian Schwarzmüller
-
 ![td](https://user-images.githubusercontent.com/99738621/186027382-63eef2a2-2708-45d7-b33c-053d8abd2a11.png)
+## Based on Udemy's React Course - Maximilian Schwarzmüller
 
 - Clone the project
 
